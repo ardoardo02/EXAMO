@@ -1,0 +1,35 @@
+.userNavbar {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 25px;
+  background: white;
+}
+
+body {
+  background-color: #efefef;
+}
+
+.topm {
+  margin-top: 10px;
+}
+
+.botm {
+  margin-bottom: 20px;
+}
+
+button > h5 {
+  margin: 0px;
+}
+
+button > p {
+  margin: 0px;
+}
+
+h4 {
+  margin-top: 10px;
+}
+
+pr-5 {
+  padding-right: 20px;
+}

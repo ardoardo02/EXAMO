@@ -1,0 +1,87 @@
+.box {
+  overflow: hidden;
+  background-color: white;
+  margin-top: 20px;
+  border-radius: 7px;
+  box-shadow: 5px 0px 15px #cccccb;
+}
+
+.box ul {
+  padding: 15px;
+  margin: 0px;
+}
+
+.box ul li {
+  padding: 10px;
+  float: left;
+  list-style: none;
+  width: 100%;
+  min-height: 100px;
+  max-height: 100px;
+  background: white;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+}
+
+.box a {
+  color: black;
+}
+
+.box ul li:hover {
+  border: 3px solid lightgray;
+}
+
+.box p {
+  margin: 0px;
+}
+
+.box h5 {
+  margin: 0px;
+}
+
+.scores {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 20px;
+}
+
+.oop {
+  text-align: right;
+  padding-right: 15px;
+  width: 73%;
+  background-image: linear-gradient(to right, #ffff99, #ffff00);
+  border-radius: 20px;
+}
+
+.os {
+  text-align: right;
+  padding-right: 15px;
+  width: 90%;
+  background-image: linear-gradient(to right, #80ffa8, #00cc44);
+  border-radius: 20px;
+}
+
+.at {
+  text-align: right;
+  padding-right: 15px;
+  width: 40%;
+  background-image: linear-gradient(to right, #ff8080, #ff0000);
+  border-radius: 20px;
+}
+
+body {
+  background-color: #efefef;
+}
+
+.userNavbar {
+  margin-right: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 25px;
+  background: white;
+}
+
+pr-5 {
+  padding-right: 20px;
+}

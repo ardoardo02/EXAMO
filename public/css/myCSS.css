@@ -1,0 +1,47 @@
+.question-divider {
+  position: relative;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding-top: 12px;
+  clear: both;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.question-divider .divider-text {
+  position: absolute;
+  color: #6b7c93;
+  left: 15px;
+  top: 1px;
+  background-color: whitesmoke;
+  padding: 2px 4px;
+  font-size: 11px;
+}
+
+img.icon {
+  height: 50px;
+  width: 50px;
+}
+
+.btn-light-new {
+  color: #212529;
+  background-color: whitesmoke;
+  border-color: #f8f9fa;
+}
+
+.btn-light-new:hover {
+  color: #212529;
+  background-color: #e2e6ea;
+  border-color: #dae0e5;
+}
+
+.card:hover {
+  background-color: #f5f5f5;
+}
+
+.removeUnderline:hover {
+  text-decoration: none;
+}
+
+.modalKiri {
+  justify-content: flex-start;
+}
